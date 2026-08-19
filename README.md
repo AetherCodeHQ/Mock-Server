@@ -23,12 +23,12 @@ Every developer needs mock server — but existing tools are either too complex,
 
 ## Features
 
-- **REST API mocking** — REST API mocking
-- **GraphQL mocking** — GraphQL mocking
-- **Request/Response recording** — Request/Response recording
-- **Scenario management** — Scenario management
-- **Docker support** — Docker support
-- **CLI interface** — CLI interface
+- REST API mocking
+- GraphQL mocking
+- Request/Response recording
+- Scenario management
+- Docker support
+- CLI interface
 
 ## Quick Start
 
