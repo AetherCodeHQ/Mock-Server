@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/Mock-Server.git
+git clone https://github.com/AetherCodeHQ/Mock-Server.git
 cd Mock-Server
 ```
 
